@@ -1,0 +1,9 @@
+body
+{
+	background-color: black;
+	border: 1px solid black;
+	margin: 0;
+	font-family: monospace;
+	color: green;
+	font-size: 1.2em;
+}

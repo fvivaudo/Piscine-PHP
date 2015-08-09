@@ -1,0 +1,14 @@
+Size : taille du vaisseau sur la map
+Hull : armure du vaisseau
+Engine Power : definit le nombre d'action par tour (aussi appele pp)
+Speed : affecte la vitesse de deplacement
+Shield : peut etre charge pour fournir une defense additionelle
+Orientation: Direction du vaisseau
+position : position sur la map
+Weapon : type d'arme equipe
+  <script type='text/javascript'>
+  //var myVariable = <?php echo(json_encode($ship1)); ?>;
+ // var shipx = <?php echo(json_encode($ship->position[0])); ?>;
+ // var shipy = <?php echo(json_encode($ship->position[1])); ?>;
+  //grid.rows[shipx].cells[shipy].innerHTML = myVariable;
+  </script>

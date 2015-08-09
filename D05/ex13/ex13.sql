@@ -1,0 +1,1 @@
+SELECT ROUND(sum(nbr_siege) / COUNT(*)) as 'moyenne' FROM salle;

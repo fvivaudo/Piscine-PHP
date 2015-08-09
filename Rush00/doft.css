@@ -1,0 +1,63 @@
+body {
+	background-color: grey;
+	background-size: 100% 100%;
+}
+#banniere {
+	position: absolute;
+	background-color: transparent;
+	margin-left: 230px;
+	top: 100px;
+	width: 1420px;
+	height: 135px;
+}
+#banniere img:first-child {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+#log {
+	position: absolute;
+	background-color: transparent;
+	text-align: left;
+	margin-left: 230px;
+	top : 10px;
+	height: 60px;
+	width: 1420px;
+}
+
+#gauche {
+	position: absolute;
+	background-color: transparent;
+	margin-left: 260px;
+	top: 255px;
+	width: 140px;
+	height: 440px;
+	border : 1px solid black;
+}
+
+#categorie {
+	display: inline-block;
+	line-height: 50px;
+}
+
+#article {
+	background-color: transparent;
+	width: 1010px;
+	height: 570px;
+	position: absolute;
+	top: 255px;
+	margin-left: 430px;
+	padding: 10px;
+	border : 1px solid black;
+}
+
+#panier {
+	position: absolute;
+	background-color: transparent;
+	margin-left: 1490px; 
+	top: 255px;
+	width: 140px;
+	height: 440px;
+	border: 1px solid black;
+}

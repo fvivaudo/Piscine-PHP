@@ -1,0 +1,28 @@
+html
+{
+	height: 100%;
+}
+body
+{
+	padding-top: 10px;
+	padding-left: 10px;
+	height: 99%;
+	min-width: 600px;
+	margin: 0 auto;
+	background-color: black;
+}
+iframe
+{
+	display: block;
+	width: 100%;
+	border: 0;
+}
+#iframe1
+{
+	margin-bottom: -50px;
+	height: 100%;
+}
+#iframe2
+{
+	height: 50px;
+}

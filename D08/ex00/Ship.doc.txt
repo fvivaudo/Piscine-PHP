@@ -1,0 +1,8 @@
+Size : taille du vaisseau sur la map
+Hull : armure du vaisseau
+Engine Power : definit le nombre d'action par tour (aussi appele pp)
+Speed : affecte la vitesse de deplacement
+Shield : peut etre charge pour fournir une defense additionelle
+Orientation: Direction du vaisseau
+position : position sur la map
+Weapon : type d'arme equipe

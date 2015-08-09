@@ -1,0 +1,6 @@
+--------------------------
+charges: Nombres d'attaques par tour
+Short/Mid/Long range : affecte la precision d'une arme
+Type : Pas encore utilise.
+Special : Pas encore utilise
+---------------------------

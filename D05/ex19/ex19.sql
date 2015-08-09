@@ -1,0 +1,1 @@
+SELECT MAX(TO_DAYS(date)) - MIN(TO_DAYS(date)) as 'uptime' FROM historique_membre;

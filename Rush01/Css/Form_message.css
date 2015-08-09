@@ -1,0 +1,28 @@
+body
+{
+	margin: 0;
+}
+form
+{
+	margin: 0;
+}
+#bouton
+{
+	width: 15%;
+	border: 1px solid black;
+	background-color: aliceblue;
+	padding: 17px;
+	display: none;
+}
+#textarea
+{
+	border: 1px solid black;
+	background-color: black;
+	color: green;
+	padding: 17px;
+	width: 100%;
+	border: none;
+}
+input:focus{
+    outline: 0;
+}

@@ -1,0 +1,28 @@
+<- Vector ----------------------------------------------------------------------
+The Vector class handles x,y,z,w and a color(optional).
+Two vertex can also be sent to set a vector (orig, dest), or only one if
+it's a destination point.
+
+w is always equal to 0.
+Default color is white.
+
+float magnitude() : return magnitude of a vector.
+
+Vector normalize() : return normalized vector. If the vector is already
+normalized, return a copy of it.
+
+Vector add( Vector $rhs ) : return the  sum of 2 vectors.
+
+Vector sub( Vector $rhs ) : return the  difference between 2 vectors.
+
+Vector opposite() : return the opposite vector.
+
+Vector scalarProduct( $k ) : return the product of a multiplication between a
+scalar and a vector.
+
+float dotProduct( Vector $rhs ) : return the dot product of 2 vectors.
+
+float cos( Vector $rhs ) : return the cosine of the angle between 2 vectors.
+
+Vector crossProduct( Vector $rhs ) : return the crossproduct of 2 vectors;
+---------------------------------------------------------------------- Vector ->

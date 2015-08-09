@@ -1,0 +1,57 @@
+body 
+{
+	width: 17%;
+	margin: 0 auto;
+	text-align: center;
+}
+nav ul li 
+{
+	list-style: none;
+	display: inline-table;
+	width: 100px;
+	height: 20px;
+	padding-top: 10px;
+}
+nav ul li:hover > ul li
+{
+	display: block;
+}
+li ul li
+{
+	display: none;
+	background-color: white;
+	width: 100px;
+	height: 20px;
+	padding-top: 10px;
+}
+nav
+{
+	border: 2px solid black;
+}
+ul
+{
+	padding: 8;
+}
+a 
+{
+	text-decoration: none;
+	font-family: Helvetica;
+	color: black;
+}
+#first
+{
+	float: left;
+}
+#last
+{
+	float: right;
+}
+ul li:hover
+{
+	background-color: grey;
+}
+#coucou
+{
+	margin: 0;
+	margin-bottom: 32px;
+}
